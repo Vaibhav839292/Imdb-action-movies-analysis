@@ -7,7 +7,7 @@ An end-to-end Data Analytics project focused on data cleaning, handling unstruct
 ## 🚀 Live Code & Interactive Dashboard
 > 💡 **Interviewer Quick Access:** GitHub sometimes struggles to load heavy interactive Plotly charts directly. To review the live execution, outputs, and interact with the dynamic graphs, please click the button below:
 >
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vaibhav839292/imdb-action-movies-analysis/blob/main/imdb_action_movies_analysis.ipynb)
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vaibhav839292/imdb-action-movies-analysis/blob/main/imdb-action-movies-analysis.ipynb)
 
 
 ---
